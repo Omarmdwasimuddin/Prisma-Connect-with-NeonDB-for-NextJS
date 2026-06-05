@@ -30,11 +30,11 @@ The app/generated/prisma output directory for the generated Prisma Client will b
 
 #### visit koro https://neon.com/ ---> Sign Up koro then Login kore dashboard e jaw--->New Project button click koro--->Project name daw: Prisma Project --->Region: AWS Asia Pacific 1 (Singapore) --->click: Create ---> click: Connect --->click: Copy snippet ---> .env file e DATABASE_URL e paste koro.
 
-### Connection String copy koro .env te paste koro
-
 ### Run migrations and generate Prisma Client
 ```bash
 npx prisma migrate dev --name init
 npx prisma generate
 ```
 ---
+
+### Neon Dashboard er Tables e click kore dekho table create hoyeche kina
