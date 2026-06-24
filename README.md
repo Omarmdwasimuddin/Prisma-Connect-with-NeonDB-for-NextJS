@@ -1,4 +1,4 @@
-# Prisma Install with Next.js + NeonDB
+## Prisma Connect with NeonDB for NextJS
 ---
 ## ১. Next.js Installation
 নতুন Next.js প্রজেক্ট তৈরি করো এবং সেই ডিরেক্টরিতে প্রবেশ করো:
