@@ -19,7 +19,7 @@ npm install @prisma/client @prisma/adapter-pg dotenv pg
 ---
 ## ৩. Prisma Initialize করো
 ```bash
-npx prisma init --output ../app/generated/prisma
+npx prisma init 
 ```
 এই কমান্ড চালালে যা তৈরি হবে:
 | ফাইল / ডিরেক্টরি | বিবরণ |
